@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Retangulo",
+            "request": "launch",
+            "mainClass": "Retangulo",
+            "projectName": "Programacao-Modular_9dbd42db"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "Menu",
+            "projectName": "Programacao-Modular_9dbd42db"
+        },
+        {
+            "type": "java",
             "name": "ConversaoTemperatura",
             "request": "launch",
             "mainClass": "ConversaoTemperatura",
