@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LMP_Q2",
+            "request": "launch",
+            "mainClass": "LMP_Q2",
+            "projectName": "Programacao-Modular_9dbd42db"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "App",
