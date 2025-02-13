@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercício08Lista {
+public class diaSemana {
     /*
      * Sabendo que 1º de janeiro de 2024 foi uma segunda feira, escreva um método
      * que receba uma data e diga

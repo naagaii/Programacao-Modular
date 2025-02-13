@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "diaSemana",
+            "request": "launch",
+            "mainClass": "diaSemana",
+            "projectName": "Programacao-Modular_9dbd42db"
+        },
+        {
+            "type": "java",
+            "name": "inverteVetor",
+            "request": "launch",
+            "mainClass": "inverteVetor",
+            "projectName": "Programacao-Modular_9dbd42db"
+        },
+        {
+            "type": "java",
             "name": "LMP_Q2",
             "request": "launch",
             "mainClass": "LMP_Q2",

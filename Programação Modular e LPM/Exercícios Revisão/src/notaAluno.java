@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LMP_Q2 {
+public class notaAluno {
     /**
      * LER NOTAS DE EXERCICIOS
      * LER NOTAS DE PROVAS
@@ -52,7 +52,7 @@ public class LMP_Q2 {
         mediaProvas = calcularMedia(provas) * pesoProvas;
         notaFinal = mediaExercicios + mediaProvas + notaTrabalho;
         System.out.printf("Nota final: %.2f ", notaFinal);
-        teclado.close();
+        teclado.close();    
 
     }
 }

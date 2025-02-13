@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercício01Lista {
+public class inverteVetor {
     /*
      * Preencha um vetor de 6 números inteiros a partir da entrada do usuário e,
      * depois, inverter as posições dos
@@ -28,7 +28,6 @@ public class Exercício01Lista {
     }
 
     public static void exibeVetor(int[] vetor) {
-        System.out.println("Números no vetor:");
         for (int i = 0; i < vetor.length; i++) {
             System.out.print(vetor[i] + " ");
         }
