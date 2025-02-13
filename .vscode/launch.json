@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Programacao-Modular_9dbd42db"
+        },
+        {
+            "type": "java",
+            "name": "AloPadawan",
+            "request": "launch",
+            "mainClass": "AloPadawan",
+            "projectName": "Programacao-Modular_9dbd42db"
+        },
+        {
+            "type": "java",
             "name": "Retangulo",
             "request": "launch",
             "mainClass": "Retangulo",
